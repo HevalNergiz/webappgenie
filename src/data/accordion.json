@@ -1,0 +1,23 @@
+{
+    "d":[
+       { "data_display":[
+            {
+                "name": "Stat Cards",
+                "preview": "stats.png"
+            }
+        ]},
+      {  "forms":[
+            {
+                "name": "Stat Cards",
+                "preview": "stats.png"
+            }
+        ]},
+       { "charts":[
+            {
+                "name": "Stat Cards",
+                "preview": "stats.png"
+            }
+        ]}
+    ]
+   
+}

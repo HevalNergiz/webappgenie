@@ -1,0 +1,18 @@
+{
+    "Page name 1":{
+        "components": [{
+            "component_name": "line_chart",
+            "messaege": "This component will be used for displaying users activity."
+        }]
+    },
+    "Page name 2":{
+        "components": [{
+            "component_name": "calender",
+            "messaege": "This component will be used for selecting dates."
+        },
+        {
+            "component_name": "line_chart",
+            "messaege": "This component will be used for displaying users activity."
+        }]
+    }
+}
